@@ -1,0 +1,5 @@
+package conflict
+sourcedir = "src"
+executable = conflict
+main = Main
+modules = Main
